@@ -2,7 +2,7 @@
 // ie: if both values are equal then it's square otherwise rectangle.
 
 
-import 'dart:io';
+
 
 ///ANS
 
@@ -17,7 +17,7 @@ void main(){
 int length = 5;
 int breadth =10;
 if(length == breadth){
-   print("It's a square!");
+   print("It's a squaref!");
 
 }
 else{
